@@ -22,6 +22,7 @@ September Temperatures and precipitation:
 
 February Temperatures and precipitation:
 
+<img width="343" alt="Screen Shot 2022-09-29 at 13 03 20" src="https://user-images.githubusercontent.com/108498940/193113013-1b25d942-bdaf-4f97-a087-98cd48359f70.png">
 
 
 
