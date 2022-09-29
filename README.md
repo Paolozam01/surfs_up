@@ -28,11 +28,7 @@ As we can see, temperature does not change that much throughout the months, it a
 
 ## Summary
 
-I would recommend to open the business since the 
-
-
-
-
+I would recommend to open the business since the major concern form the investors is the weather but the analysis indicates that temperature is good for surfing and there is not that much precipitation. Febrary has a precipitaion average of 16% which translates to 4.48 days of rain during this month. Considering that, the posibilities of clients not purchasing on the store because of rain is low. Temperature also does not change that much, so I would not consider it a big factor on store sales. 
 
 
 
