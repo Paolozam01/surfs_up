@@ -24,7 +24,7 @@ February Temperatures and precipitation:
 
 <img width="343" alt="Screen Shot 2022-09-29 at 13 03 20" src="https://user-images.githubusercontent.com/108498940/193113013-1b25d942-bdaf-4f97-a087-98cd48359f70.png">
 
-
+As we can see, temperature does not change that much throughout the months, it always stays around the range of 69 to 75 Franheit. And regarding precipitation, the mean indicates that it also does not change that much at least between the months of September and Febrary. Results indicates that the precipitation average is between 16% and 13% which indicates that the shop will not be washed away by rain. 
 
 ## Summary
 
