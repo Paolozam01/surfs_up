@@ -18,7 +18,7 @@ December Temperatures:
 
 September Temperatures and precipitation:
 
-
+<img width="370" alt="Screen Shot 2022-09-29 at 13 03 13" src="https://user-images.githubusercontent.com/108498940/193112915-97b3b1f8-b8b3-4343-b550-48fee9c3971d.png">
 
 February Temperatures and precipitation:
 
