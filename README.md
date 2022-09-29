@@ -6,6 +6,8 @@ The porpuse of this analysis is to analyze the weather trends on Oahu, Hawaii be
 
 ## Results
 
+On the code that was developed for this analysis, I was able to determine the temperature for the months June and December and was able to determine the precipitation and temperatures of September and February:
+
 
 
 ## Summary
