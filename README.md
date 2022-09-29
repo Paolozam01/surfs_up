@@ -28,7 +28,7 @@ As we can see, temperature does not change that much throughout the months, it a
 
 ## Summary
 
-
+I would recommend to open the business since the 
 
 
 
